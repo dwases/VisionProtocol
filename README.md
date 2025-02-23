@@ -9,3 +9,4 @@ Player default controls:
 - space - jump
 - shift - dash
 - hold left CTRL while side to side with a wall - run alongside the wall
+- E - interact
