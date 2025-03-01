@@ -10,3 +10,6 @@ Player default controls:
 - shift - dash
 - hold left CTRL while side to side with a wall - run alongside the wall
 - E - interact
+- LMB - weapon primary fire
+- Scroll Up - Change weapon up
+- Scroll Down - Change weapon down
