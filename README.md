@@ -13,3 +13,4 @@ Player default controls:
 - LMB - weapon primary fire
 - Scroll Up - Change weapon up
 - Scroll Down - Change weapon down
+- 1,2,3 - Postęp dialogu (TYMCZASOWE)
