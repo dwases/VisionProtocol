@@ -10,7 +10,17 @@ Player default controls:
 - shift - dash
 - hold left CTRL while side to side with a wall - run alongside the wall
 - E - interact
+
+Player weapon controls:
 - LMB - weapon primary fire
 - Scroll Up - Change weapon up
 - Scroll Down - Change weapon down
-- 1,2,3 - Postęp dialogu (TYMCZASOWE)
+
+Player visor controls:
+- T - QuantoVisor
+- Y - TermoVisor
+- U - ChronoVisor
+- RMB while Visor is active - Visor ability 1
+  - QV - nothing yet
+  - TV - nothing yet
+  - CV - Time Slow (hold RMB)
